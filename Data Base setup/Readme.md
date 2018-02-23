@@ -8,3 +8,6 @@ https://github.com/MIT-LCP/mimic-code/tree/master/buildmimic/postgres
 
 (Connectoin)
 https://github.com/MIT-LCP/mimic-code/blob/master/notebooks/rmd_example/mimic_los.Rmd
+
+(ICD 9 categorization)
+https://github.com/MIT-LCP/mimic-code/tree/master/concepts/diagnosis
